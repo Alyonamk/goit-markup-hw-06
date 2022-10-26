@@ -773,6 +773,10 @@ img {
   flex-direction: column;
 }
 
+.form-label {
+  margin-bottom: 4px;
+}
+
 .form-field label {
   font-weight: 400;
   font-size: 12px;
@@ -791,10 +795,6 @@ img {
 
 .field-comment:not(:last-child) {
   margin-bottom: 0px;
-}
-
-.form-label {
-  margin-bottom: 4px;
 }
 
 .form-input {
